@@ -66,6 +66,7 @@ div#menu ul li {
 </div>
 
 <div id="footer">
+	<h2>Test Header</h2>
   <p>&copy; 2014 Monday Times. All rights reserved.</p>
 </div>
 
